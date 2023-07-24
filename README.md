@@ -31,3 +31,8 @@ Melhoria, melhoria, melhoria
 #### Imagem local
 
 ![Logo do Python](img/python.png)
+
+
+#### Imagem externa
+
+![Logo PHP](https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png)
