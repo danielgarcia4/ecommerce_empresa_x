@@ -38,4 +38,4 @@ Melhoria, melhoria, melhoria
 ![Logo PHP](https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png)
 
 ## Links interessantes
-[Google](www.google.com)
+[Google](https://www.google.com)
