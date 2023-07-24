@@ -39,3 +39,6 @@ Melhoria, melhoria, melhoria
 
 ## Links interessantes
 [Google](https://www.google.com)
+Contribuidor principal: https://github.com/danielgarcia4
+
+[![Logo Github](https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png)](https://github.com/danielgarcia4)
